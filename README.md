@@ -26,8 +26,3 @@ git clone git@github.com:OneyKii/Portfolio.git
 * 0.1
     * Première version (Incomplete)
 
-## à savoir si vous souhaitez la récupérer maintenant.
-
-* à faire 
-   * Formulaire de contact en PhP.
-   * Changer les img dans le portfolio.
