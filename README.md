@@ -1,53 +1,33 @@
-# Portfolio
-
-Portfolio créée pendant me formation de développeur web à Campus26
-
-## Description
+## Portfolio
 
 Portfolio simple et agréable, basé d'une template, modifier et minimalisé par mes soins.
-Dispo
+Portfolio créée pendant me formation de développeur web à Campus26.
+Site one page avec un bon responsive design.
 
-## Getting Started
+## Language utilisé 
 
-### Dependencies
+   * HTML
+   * CSS
+   * JavaScript
+   * PhP
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+## FrameWork utilisé 
 
-### Installing
+   * Jquery
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Si vous souhaitez la récupez
+## Si vous souhaitez la récuperer
 
 ```
-git clone 
+git clone git@github.com:OneyKii/Portfolio.git
 ```
 
-## Authors
+## Version 
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
-    * Initial Release
+    * Première version (Incomplete)
 
-## License
+## à savoir si vous souhaitez la récupérer maintenant.
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+* à faire 
+   * Formulaire de contact en PhP.
+   * Changer les img dans le portfolio.
