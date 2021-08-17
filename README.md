@@ -23,6 +23,10 @@ git clone git@github.com:OneyKii/Portfolio.git
 
 ## Version 
 
+* 0.2 
+    * Détail revisté
+    * bug fixed (#portfolio > Read More > close windows)
+
 * 0.1
     * Première version (Incomplete)
 
